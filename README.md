@@ -1,2 +1,2 @@
-# goit-markup-hw-01
-My first HTML project 
+# goit-markup-hw-06
+My first HTML project, part 6
